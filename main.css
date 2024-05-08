@@ -1,0 +1,129 @@
+.container {
+    background-color: dimgray;
+    border: 2px solid red;
+    padding: 5px;
+    max-width: 420px;
+    height: 1000px;
+    margin-left: 500px;
+}
+
+
+.titulo-logo {
+    display: flex;
+    justify-content: center;
+    background-color: red;
+    height: 60px;
+    width: 425px;
+    margin: 0;
+    padding: 0;
+}
+
+
+.bem-vindo {
+    display: flex;
+    padding: 15px;
+    color: white;
+    font-size: large;
+    line-height: 2;
+}
+
+
+.imagem-container {
+    text-align: center;
+}
+
+
+.container img {
+    max-width: 100%;
+    height: auto;
+}
+
+
+.AyrtonSenna {
+    display: flex;
+    align-items: left;
+    width: 30px;
+    height: 30px;
+    border-radius: 100%;
+    text-align: left;
+    padding: 15px;
+}
+
+
+.container2 {
+    display: flex;
+    align-items: center;
+    font-style: italic;
+    color: white;
+}
+
+
+.container2 img {
+    margin-right: 15px;
+}
+
+
+.vertical {
+    float: left;
+    flex-direction: column;
+}
+
+
+.container3 {
+    display: flex;
+    align-items: center;
+    padding-left: 15px;
+    color: white;
+
+
+}
+
+
+.logof1-cinza {
+    display: flex;
+    align-items: left;
+    text-align: left;
+    width: 50px;
+    height: 50px;
+    max-width: 500px;
+    object-fit: cover;
+    border-radius: 100%;
+}
+
+
+.scuderia-ferrari {
+    display: flex;
+    align-items: center;
+    width: 30px;
+    height: 30px;
+    object-fit: cover;
+    border-radius: 100%;
+}
+
+
+.noticia-carlossainzjr {
+    padding: 15px;
+    color: white;
+    font-size: small;
+}
+
+
+.container4 {
+    display: flex;
+    justify-content: center;
+    padding-right: 60px;
+}
+
+
+.texto-carlossainzjr {
+    padding: 15px;
+    color: white;
+    font-size: small;
+}
+
+
+.fonte-noticia {
+    font-size: x-large;
+    color: white;
+    padding-left: 15px;
+}
